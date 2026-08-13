@@ -27,13 +27,13 @@ The game ends when the player successfully guesses the word or runs out of attem
 
 ## Project Structure
 
-- `Project1.java` — Main class that starts the game
+- `WordGuessGame.java` — Main class that starts the game
 - `Game.java` — Handles the game logic and user input
 - `WordBank.java` — Stores the word list and selects a random word
 
 ## How to Run
 
-Run the `Project1.java` file to start the game.
+Run the `WordGuessGame.java` file to start the game.
 
 ## Example
 
